@@ -1,0 +1,17 @@
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Week1Tests.dll
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Week1Tests.pdb
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Week1.exe
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Week1.pdb
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Week1.exe.config
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\3717891\source\repos\Week1\Week1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\3717891\source\repos\Week1\Week1Tests\obj\Debug\Week1Tests.csprojAssemblyReference.cache
+C:\Users\3717891\source\repos\Week1\Week1Tests\obj\Debug\Week1Tests.csproj.CoreCompileInputs.cache
+C:\Users\3717891\source\repos\Week1\Week1Tests\obj\Debug\Week1Tests.csproj.CopyComplete
+C:\Users\3717891\source\repos\Week1\Week1Tests\obj\Debug\Week1Tests.dll
+C:\Users\3717891\source\repos\Week1\Week1Tests\obj\Debug\Week1Tests.pdb
