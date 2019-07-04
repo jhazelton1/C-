@@ -16,9 +16,12 @@ namespace Week1
             /*List<string> words = new List<string>() { "Deleveled", "Noon", "Racecar", "Java", "CSHARP" }
             words.ForEach(word => Console.WriteLine(Palindrome.isPalindrome(word)));*/
 
-            Console.WriteLine(new FizzBuzzTwo(1, 20).GetOutput());
-            Console.WriteLine(new FizzBuzzTwo(1, 20).GetLuckyOutput());
-            Console.WriteLine(new FizzBuzzTwo(1, 1000).GetReport());
+            //Console.WriteLine(new FizzBuzzTwo(1, 20).GetOutput());
+            //Console.WriteLine(new FizzBuzzTwo(1, 20).GetLuckyOutput());
+            //Console.WriteLine(new FizzBuzzTwo(1, 1000).GetReport());
+
+            Hangman game = new Hangman("HangManWords.txt");
+            game.Run();
 
             Console.ReadKey();
         }

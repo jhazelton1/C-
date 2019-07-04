@@ -46,11 +46,15 @@
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="App.cs" />
     <Compile Include="FizzBuzzTwo.cs" />
+    <Compile Include="Hangman.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HangManWords.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
